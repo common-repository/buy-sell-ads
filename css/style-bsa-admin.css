@@ -1,0 +1,53 @@
+.bsa_zones {
+  padding:5px;
+  width:630px;
+}
+
+.bsa_zone_title {
+  background:#333;
+  color:#fff;
+  padding:5px;
+}
+
+.bsa_zone_title div {
+  float:left;
+  margin:0 5px;
+}
+
+.bsa_zone {
+  background:#f6f6f6;
+  padding:5px;
+}
+
+.bsa_zone div {
+  float:left;
+  margin:0 5px;
+}
+
+.bsa_zone_id {
+  width:90px;
+}
+
+.bsa_zone_type {
+  width:80px;
+}
+
+.bsa_zone_size {
+  width:100px;
+}
+
+.bsa_zone_nads {
+  width:60px;
+}
+
+.bsa_zone_placement {
+  width:150px;
+}
+
+.bsa_zone_position {
+  width:80px;
+}
+
+.bsa_clear {
+  clear:both;
+}
